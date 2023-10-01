@@ -1,72 +1,39 @@
 {
   "main": {
-    "id": "f0f8dcb81547d93a",
+    "id": "60a73a1da824f56f",
     "type": "split",
     "children": [
       {
-        "id": "1d33eacf4868acdb",
+        "id": "41d50c67bfe1fb19",
         "type": "tabs",
         "children": [
           {
-            "id": "3c1700050ab27b6f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "09b2bdfa5f3f5d9f",
+            "id": "5a2df0a65eceb10d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Tips/옵시디언 사용법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0e1afe3948574a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Daily/2023-09-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93ab632f05ad4bfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Daily/2023-09-29.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "09ece5d7ca09f953",
+    "id": "2ccaf2bbeb9695fa",
     "type": "split",
     "children": [
       {
-        "id": "014327483c9dbabe",
+        "id": "3241fab5e4820276",
         "type": "tabs",
         "children": [
           {
-            "id": "aab47b0a12e6c720",
+            "id": "e8e88c181404ec82",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +43,7 @@
             }
           },
           {
-            "id": "7421b8d235f94f7c",
+            "id": "9a130b0e149f29aa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -91,7 +58,7 @@
             }
           },
           {
-            "id": "c904a6670ee051e5",
+            "id": "bec27462c0a7c54b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "c3d7c1cec3de275d",
+    "id": "d7dcb80b15c329f9",
     "type": "split",
     "children": [
       {
-        "id": "67602c279961b7ee",
+        "id": "83d60803718f6f5b",
         "type": "tabs",
         "children": [
           {
-            "id": "82c002e9721fb0a0",
+            "id": "445ea6126733588d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Daily/2023-09-29.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,19 +97,19 @@
             }
           },
           {
-            "id": "57f2b9d2dcb04cce",
+            "id": "1b0f5a0521c80616",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Daily/2023-09-29.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2c6932a9bee7754e",
+            "id": "e907096002d72349",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,21 +120,13 @@
             }
           },
           {
-            "id": "ce4f66c922bc63f0",
+            "id": "80deacace86ff71d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Daily/2023-09-29.md"
+                "file": "README.md"
               }
-            }
-          },
-          {
-            "id": "c37f0b1e47c32d8c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -184,23 +143,9 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "aab47b0a12e6c720",
-  "lastOpenFiles": [
-    "무제 폴더",
-    "README.md",
-    "01. Daily/2023-09-29.md",
-    "Obsidian Tips/마크다운 사용법.md",
-    "Obsidian Tips/옵시디언 사용법.md",
-    "Attached File/CleanShot 2023-09-29 at 10.07.57@2x.png",
-    "Obsidian Tips",
-    "Attached File",
-    "04. Yearly",
-    "03. Monthly",
-    "02. Weekly",
-    "01. Daily"
-  ]
+  "active": "5a2df0a65eceb10d",
+  "lastOpenFiles": []
 }
